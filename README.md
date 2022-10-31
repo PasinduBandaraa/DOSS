@@ -2,7 +2,7 @@
 
 DOSS Assignment
 
-### 3) Maintain the log records of accessing to the database and maintain the minimum access privileges to the existing servers and applications. [8pts]
+### 3) Maintain the log records of accessing to the database and maintain the minimum access privileges to the existing servers and applications. <red>[8pts]</red>
 
 **SELECT group#, member FROM v$logfile ORDER BY group#, member;**
 

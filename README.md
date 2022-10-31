@@ -18,7 +18,17 @@ DOSS Assignment
 
 **SELECT * FROM V$log_history;**
 
-<br>\
+
 
 ### 4) Maintain individual login credentials for the people who access the workstation and to perform administrative tasks of the databases [5pts]
+
+| User | Password | Role |
+| --- | --- | --- |
+| Pasindu | pasindu123 | System_Manager |
+| Methmi | methmi123 | System_Developer |
+| Sanduni | sanduni123 | System_Developer |
+| Hansa | hansa123 | System_Operator |
+| Amali | amali123 | System_Operator |
+| Kasun | kasun123 | Accountant |
+
 

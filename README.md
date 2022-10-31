@@ -34,8 +34,8 @@ DOSS Assignment
 | Role | Privileges |
 | --- | --- |
 | System_Manager | Create Table, Create View |
-| System_Developer | Create Any Table | Alter Any Table |
+| System_Developer | Create Any Table, Alter Any Table |
 | System_Operator | Create Any Table |
-| Accountant | Create Any Table | Delete Any Table |
+| Accountant | Create Any Table, Delete Any Table |
 
 

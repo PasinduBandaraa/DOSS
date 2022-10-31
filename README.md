@@ -1,3 +1,8 @@
+<style>
+red { color: red }
+yellow { color: yellow }
+</style>
+
 # DOSS
 
 DOSS Assignment
